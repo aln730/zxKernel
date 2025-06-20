@@ -1,1 +1,1 @@
-Working of my custom x86 kernal.
+Learning how to create a basic 32-bit x86 kernel
